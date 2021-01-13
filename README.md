@@ -5,7 +5,7 @@ While we are sending and receiving so many emails a day, it is almost impossible
 
 Now we can use a unique digital information of your emails to quickly find specific ones.  Each email has its own identification, called Message ID, which is similar to your mail address, but very long account name. such as
 
-<806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da@gmail.com>
+`<806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da@gmail.com>`
 
 In Gmail, you can find your Message ID by clicking an icon of three vertical dots and select "Show original".
 
