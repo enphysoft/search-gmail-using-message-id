@@ -37,7 +37,7 @@ A unique gmail link can be made by putting two parts together, i.e.,
 
 and replacing ":" by "%3A" in the link prefix and "@" by "%40" in the Message ID to finally generate
 
-`https://mail.google.com/mail/u/``<strong>0</strong>``/#search/rfc822msgid``<strong>%3A</strong>``806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da``<strong>%40</strong>``gmail.com`
+`https://mail.google.com/mail/u/`<strong>0</strong>`/#search/rfc822msgid`<strong>%3A</strong>`806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da`<strong>%40</strong>`gmail.com`
 
 Note that "<strong>0</strong>" in '.../mail/u/<strong>0</strong>/#search/...' means your primary gmail account.  If you have multiple gmail acount, the <strong>second</strong> and the <strong>third</strong> accounts are specified using '.../mail/u/<strong>1</strong>/#search/...' and '.../mail/u/<strong>2</strong>/#search/...' , respectively. 
 
