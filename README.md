@@ -18,7 +18,7 @@ rfc822msgid:806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da@hawaii.edu
 Copy this to your Gmail search window and you can immediately find the mail that you want to retrieve.
 
 Instead this link also works in much convenient way:
-https://mail.google.com/mail/u/0/#search/rfc822msgid%3A806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da%40hawaii.edu
+https\://mail.google.com/mail/u/0/#search/rfc822msgid%3A806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da%40hawaii.edu
 
 "https://mail.google.com/mail/u/0/#search/rfc822msgid%3A" note that you have
 https://mail.google.com/mail/u/0/#search/
