@@ -19,6 +19,7 @@ In Gmail search window, you can type and enter
 
 Note that you need to remove brackets "<" and ">", enclosing the Message ID and attach it to "rfc822msgid:".
 Copy this to your Gmail search window and you can immediately find the mail that you want to retrieve.
+![alt text](https://github.com/enphysoft/search-gmail-using-message-id/blob/main/images/Gmail-search-using-message-id.png)
 
 ## A unique URL of a Message ID for Gmail
 Instead this link also works in much convenient way:
