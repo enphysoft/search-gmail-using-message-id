@@ -37,7 +37,7 @@ A unique gmail link can be made by putting two parts together, i.e.,
 
 and replacing ":" by "%3A" in the link prefix and "@" by "%40" in the Message ID to finally generate
 
-https://mail.google.com/mail/u/0/#search/rfc822msgid%3A806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da%40gmail.com
+https://mail.google.com/mail/u/0/#search/rfc822msgid<strong>%3A</strong>806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da%40gmail.com
 
 Note that "<strong>0</strong>" in '.../mail/u/<strong>0</strong>/#search/...' means your primary gmail account.  If you have multiple gmail acount, the <strong>second</strong> and the <strong>third</strong> accounts are specified using '.../mail/u/<strong>1</strong>/#search/...' and '.../mail/u/<strong>2</strong>/#search/...' , respectively. 
 
@@ -45,4 +45,4 @@ Note that "<strong>0</strong>" in '.../mail/u/<strong>0</strong>/#search/...' me
 I believe using a Message ID will significantly shorten the searching time since you will have only one result, and therefore can reduce the server load as well. My simple Emacs-lisp code automatically generates the gmail link from the Message ID. I personally use Thunderbird and the latest version has an add-on called "ID copy Message ID", which does that the name indicates. Most email software programs have specific ways to show the Message ID. Not only Emacs, but if you know how to use regular expressions, the converting script is not hard to generate.
 
 Enjoy saving time. 
-These are <b style='color:red'>red words</b>. 
+ 
