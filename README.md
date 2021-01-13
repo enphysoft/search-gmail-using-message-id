@@ -45,4 +45,4 @@ Note that "0" in '.../mail/u/0/#search/...' means your primary gmail account.  I
 I believe using a Message ID will significantly shorten the searching time since you will have only one result, and therefore can reduce the server load as well. My simple Emacs-lisp code automatically generates the gmail link from the Message ID. I personally use Thunderbird and the latest version has an add-on called "ID copy Message ID", which does that the name indicates. Most email software programs have specific ways to show the Message ID. Not only Emacs, but if you know how to use regular expressions, the converting script is not hard to generate.
 
 Enjoy saving time. 
-
+These are <b style='color:red'>red words</b>. 
