@@ -30,11 +30,11 @@ note that you have `https://mail.google.com/mail/u/0/#search/` in front of `rfc8
 
 In summary, this unique link can be made by putting two parts together, i.e.,
 
-`https://mail.google.com/mail/u/0/#search/rfc822msgig:806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da@gmail.com`
+`https://mail.google.com/mail/u/0/#search/rfc822msgig:` and `806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da@gmail.com`
 
-and replace ":" by "%3A" and "@" by "%40".
+and replace ":" by "%3A" in the link prefix and "@" in the Message ID by "%40".
 
-I believe using a Message ID will significantly shorten the searching time since you will have only one result, and therefore can reduce the server load as well.
+I believe using a Message ID will significantly shorten the searching time since you will have only one result, and therefore can reduce the server load as well. My simple Emacs-lisp code automatically generates the gmail link from the Message ID. I personally use Thunderbird and the latest version has an add-on called "ID copy Message ID", which does that the name indicates. Most email software programs have specific ways to show the Message ID. Not only Emacs, but if you know how to use regular expressions, the converting script is not hard to generate.
 
-My simple Emacs-lisp code automatically generates the gmail link from the Message ID.
-I personally use Thunderbird and the latest version has an add-on called "ID copy Message ID", which does that the name indicates. Most email software programs have specific ways to show the Message ID. Not only Emacs, but if you know how to use regular expressions, the converting script is not hard to generate.
+Enjoy saving time. 
+
