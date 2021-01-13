@@ -11,7 +11,7 @@ Now we can use a unique digital information of your emails to quickly find speci
 
 ### How do you find your Message ID of a specific gmail?
 In Gmail, you can find your Message ID by clicking an icon of three vertical dots and select "Show original".
-
+![alt text](https://github.com/enphysoft/search-gmail-using-message-id/blob/main/images/Gmail-show-original.png)
 ### How do you search in Gmail using the Message ID?
 In Gmail search window, you can type and enter
 
