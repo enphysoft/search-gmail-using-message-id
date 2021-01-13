@@ -11,25 +11,26 @@ In Gmail, you can find your Message ID by clicking an icon of three vertical dot
 
 In Gmail search window, you can type and enter
 
-rfc822msgid:806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da@gmail.com
+`rfc822msgid:806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da@gmail.com`
 
 Note that you need to remove brackets "<" and ">", enclosing the Message ID and attach it to "rfc822msgid:" to make 
 
-rfc822msgid:806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da@hawaii.edu
+`rfc822msgid:806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da@hawaii.edu`
 
 Copy this to your Gmail search window and you can immediately find the mail that you want to retrieve.
 
 Instead this link also works in much convenient way:
 
-https\://mail.google.com/mail/u/0/#search/rfc822msgid%3A806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da%40hawaii.edu
+`https://mail.google.com/mail/u/0/#search/rfc822msgid%3A806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da%40gmail.com\`
 
-"https://mail.google.com/mail/u/0/#search/rfc822msgid%3A" note that you have
-https://mail.google.com/mail/u/0/#search/
+In `https://mail.google.com/mail/u/0/#search/rfc822msgid%3A`, 
+note that you have `https://mail.google.com/mail/u/0/#search/` in front of `rfc822msgid:`
+`:` symbol is replaced by `%3A`
+`@` symbol in the Message ID is replaced by `%40`.
 
-in front of "rfc822msgid:" and ":" is replaced by "%3A".  In addition, "@" symbol in the Message ID is also replaced by "%40".
 In summary, this unique link can be made by putting two parts together, i.e.,
 
-https\://mail.google.com/mail/u/0/#search/rfc822msgig:806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da@hawaii.edu
+`https://mail.google.com/mail/u/0/#search/rfc822msgig:806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da@gmail.com`
 
 and replace ":" by "%3A" and "@" by "%40".
 
