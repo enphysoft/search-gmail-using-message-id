@@ -20,7 +20,7 @@ In Gmail search window, you can type and enter
 Note that you need to remove brackets "<" and ">", enclosing the Message ID and attach it to "rfc822msgid:".
 Copy this to your Gmail search window and you can immediately find the mail that you want to retrieve.
 
-## an URL of a Message ID of Gmail
+## A unique URL of a Message ID for Gmail
 Instead this link also works in much convenient way:
 
 `https://mail.google.com/mail/u/0/#search/rfc822msgid%3A806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da%40gmail.com`
@@ -38,6 +38,8 @@ A unique gmail link can be made by putting two parts together, i.e.,
 and replacing ":" by "%3A" in the link prefix and "@" by "%40" in the Message ID to finally generate
 
 https://mail.google.com/mail/u/0/#search/rfc822msgid%3A806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da%40gmail.com
+
+Note that "0" in '.../mail/u/0/#search/...' means your primary gmail account.  If you have multiple gmail acount, the secon and the third accounts are specified using '.../mail/u/1/#search/...' and '.../mail/u/2/#search/...' , respectively. 
 
 # Conclusion 
 I believe using a Message ID will significantly shorten the searching time since you will have only one result, and therefore can reduce the server load as well. My simple Emacs-lisp code automatically generates the gmail link from the Message ID. I personally use Thunderbird and the latest version has an add-on called "ID copy Message ID", which does that the name indicates. Most email software programs have specific ways to show the Message ID. Not only Emacs, but if you know how to use regular expressions, the converting script is not hard to generate.
