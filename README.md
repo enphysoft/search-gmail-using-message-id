@@ -45,7 +45,7 @@ and replacing ":" by "%3A" in the link prefix and "@" by "%40" in the Message-ID
 Note that "<strong>0</strong>" in '.../mail/u/<strong>0</strong>/#search/...' means your primary gmail account.  If you have multiple gmail acount, the <strong>second</strong> and the <strong>third</strong> accounts are specified using '.../mail/u/<strong>1</strong>/#search/...' and '.../mail/u/<strong>2</strong>/#search/...' , respectively. 
 
 # Conclusion 
-Using a Message-ID will significantly shorten the searching time since you will have only one result, reducing the server load. My simple Emacs-lisp code automatically generates the Gmail link from the Message-ID. I use Thunderbird, and the latest version has an add-on called "ID copy Message-ID," which the name indicates. Most email software programs have specific ways to show the Message-ID. Emacs, but if you know how to use regular expressions, the converting script is not hard to generate.
+Using a Message-ID will significantly shorten the searching time since you will have only one result, reducing the server load. My simple Emacs-lisp code automatically generates the Gmail link from the Message-ID in an Emacs buffer. I use Thunderbird, and the latest version has an add-on called "ID copy Message-ID," which does what the name indicates: https://github.com/garoose/copy-message-id. Most email software programs have specific ways to show the Message-ID. If you know how to use regular expressions, the converting script using any text editor is a trivial work. 
 
 Enjoy saving time. 
  
