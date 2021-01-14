@@ -29,8 +29,7 @@ Instead this link also works in much convenient way:
 
 In `https://mail.google.com/mail/u/0/#search/rfc822msgid`<strong>%3A</strong>, 
 note that 
-- `https://mail.google.com/mail/u/0/#search/` is placed in front of `rfc822msgid:`,
-- `:` symbol is replaced by `%3A`, and
+- `https://mail.google.com/mail/u/0/#search/` is placed in front of `rfc822msgid:` after `:` symbol is replaced by `%3A`, and
 - `@` symbol in the Message ID is replaced by `%40`.
 
 ## Summary
