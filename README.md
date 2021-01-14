@@ -48,7 +48,7 @@ Note that "<strong>0</strong>" in '.../mail/u/<strong>0</strong>/#search/...' me
 Using a Message-ID will significantly shorten the searching time since you will have only one result, reducing the server load. My simple Emacs-lisp code automatically generates the Gmail link from the Message-ID in an Emacs buffer. I use Thunderbird, and the latest version has an add-on called "ID copy Message-ID," which does what the name indicates: https://github.com/garoose/copy-message-id. You can easily copy a Message-ID by clicking the Thunderbird program's icon. 
 Most email software programs have specific ways to show the Message-ID. If you know how to use regular expressions, converting script using any text editor is a trivial work. 
 
-
 Enjoy saving time. 
  
- 
+## Acknowledgment
+This function is conceptually originated from https://github.com/xahlee/lookup-word-on-internet. 
