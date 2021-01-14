@@ -24,7 +24,7 @@ Then, copy this to your Gmail search window as shown below to find the mail you 
 ![alt text](https://github.com/enphysoft/search-gmail-using-message-id/blob/main/images/Gmail-search-using-message-id.png)
 
 ## A unique URL of a Message-ID for Gmail
-Instead this link also works in much convenient way:
+The following link also works in much convenient way:
 
 `https://mail.google.com/mail/u/0/#search/rfc822msgid`<strong>%3A</strong>`806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da`<strong>%40</strong>`gmail.com`
 
