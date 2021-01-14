@@ -18,8 +18,8 @@ In the Gmail search window, you can type and enter.
 
 `rfc822msgid`<strong>:</strong>`806d9c0c-ffe2-7c3b-5775-f0ae1cd2b5da@gmail.com`
 
-Note that you need to remove brackets "<" and ">," enclosing the Message-ID and attach it to "rfc822msgid:".
-Copy this to your Gmail search window, and you can immediately find the mail you want to retrieve.
+Note that you need to remove brackets <strong><</strong> and <strong>></strong> enclosing the Message-ID and put it after <strong>rfc822msgid:</strong>".
+Then, copy this to your Gmail search window as shown below to find the mail you want to retrieve.
 ![alt text](https://github.com/enphysoft/search-gmail-using-message-id/blob/main/images/Gmail-search-using-message-id.png)
 
 ## A unique URL of a Message-ID for Gmail
