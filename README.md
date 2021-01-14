@@ -1,6 +1,8 @@
 # search-gmail-using-message-id
 The emacs-lisp function is to search for Gmail using a Message-ID.
 
+![alt text](https://github.com/enphysoft/search-gmail-using-message-id/blob/main/images/lgmid.gif)
+
 ## Purpose of the function
 While we are sending and receiving so many emails a day, it is almost impossible to organize them by grouping them and storing them in different folders. People usually do not make specific enough email subjects, and there are many automated emails due to your subscription. Some essential emails need to be saved in particular locations, but sometimes one email falls into multiple categories. Therefore, copying/storing it in multiple folders only gives us confusion.
 
@@ -53,4 +55,3 @@ Enjoy saving time.
 ## Acknowledgment
 This function is conceptually originated from https://github.com/xahlee/lookup-word-on-internet. 
 
-![alt text](https://github.com/enphysoft/search-gmail-using-message-id/blob/main/images/lgmid.gif)
